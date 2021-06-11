@@ -1,0 +1,11 @@
+Release/
+Debug/
+.vs/
+Project/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
